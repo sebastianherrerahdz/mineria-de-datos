@@ -5,4 +5,4 @@
 - [Correlaciones](https://github.com/sebastianherrerahdz/mineria-de-datos/blob/main/correlacion%20(1).py)
 - [Graficas](https://github.com/sebastianherrerahdz/mineria-de-datos/blob/main/graficas.py)
 - [Diagrama de Flujo](https://github.com/sebastianherrerahdz/mineria-de-datos/blob/main/Captura%20de%20pantalla%202026-07-08%20093727.png)
--[Metodos estadisticos](https://github.com/sebastianherrerahdz/mineria-de-datos/blob/main/README.md)
+- [Metodos estadisticos](https://github.com/sebastianherrerahdz/mineria-de-datos/blob/main/README.md)
