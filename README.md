@@ -10,3 +10,4 @@
  
 ## Tercer parcial
 - [Actividad k-means](https://github.com/sebastianherrerahdz/mineria-de-datos/blob/main/actividad%201%20(1).py)
+- [Cuadro comparativo](https://github.com/sebastianherrerahdz/mineria-de-datos/blob/main/actividad%202.docx)
