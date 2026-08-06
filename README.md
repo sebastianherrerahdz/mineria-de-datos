@@ -9,4 +9,4 @@
 
  
 ## Tercer parcial
-- [Actividad](https://github.com/sebastianherrerahdz/mineria-de-datos/blob/main/actividad%201%20(1).py)
+- [Actividad k-means](https://github.com/sebastianherrerahdz/mineria-de-datos/blob/main/actividad%201%20(1).py)
