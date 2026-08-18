@@ -14,4 +14,4 @@
 - [Red Neuronal](https://github.com/sebastianherrerahdz/mineria-de-datos/blob/main/Red%20neuronal.py)
 - [Patrones](https://github.com/sebastianherrerahdz/mineria-de-datos/blob/main/Patrones.ipynb)
 - [Redes sociales](https://github.com/sebastianherrerahdz/mineria-de-datos/blob/main/redes_sociales.ipynb)
-- 
+  
